@@ -1,0 +1,10 @@
+.
+├── backend
+├── dir_tree.txt
+├── docs
+│   ├── ERD.png
+│   └── PhaseZeroOutline.md
+├── frontend
+└── README.md
+
+4 directories, 4 files
