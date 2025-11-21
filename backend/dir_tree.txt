@@ -1,12 +1,10 @@
 .
+├── activity
 ├── config
-│   ├── config
-│   │   ├── __init__.py
-│   │   ├── asgi.py
-│   │   ├── settings.py
-│   │   ├── urls.py
-│   │   └── wsgi.py
-│   └── manage.py
-└── dir_tree.txt
+├── db.sqlite3
+├── dir_tree.txt
+├── habits
+├── manage.py
+└── profiles
 
-3 directories, 7 files
+5 directories, 3 files
