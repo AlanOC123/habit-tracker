@@ -1,0 +1,12 @@
+.
+├── config
+│   ├── config
+│   │   ├── __init__.py
+│   │   ├── asgi.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   └── manage.py
+└── dir_tree.txt
+
+3 directories, 7 files
