@@ -1,10 +1,68 @@
 .
 ├── activity
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-313.pyc
+│   │   ├── admin.cpython-313.pyc
+│   │   ├── apps.cpython-313.pyc
+│   │   └── models.cpython-313.pyc
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       └── __init__.cpython-313.pyc
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
 ├── config
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-313.pyc
+│   │   ├── settings.cpython-313.pyc
+│   │   ├── urls.cpython-313.pyc
+│   │   └── wsgi.cpython-313.pyc
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
 ├── db.sqlite3
 ├── dir_tree.txt
 ├── habits
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-313.pyc
+│   │   ├── admin.cpython-313.pyc
+│   │   ├── apps.cpython-313.pyc
+│   │   └── models.cpython-313.pyc
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       └── __init__.cpython-313.pyc
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
 ├── manage.py
-└── profiles
+├── profiles
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-313.pyc
+│   │   ├── admin.cpython-313.pyc
+│   │   ├── apps.cpython-313.pyc
+│   │   └── models.cpython-313.pyc
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       └── __init__.cpython-313.pyc
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+└── static
+    └── images
+        └── default-avatar.png
 
-5 directories, 3 files
+17 directories, 49 files
