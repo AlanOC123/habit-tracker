@@ -1,4 +1,3 @@
-from django.contrib.auth.models import User
 from .models import Routine, Action, HabitCompletion
 from rest_framework import serializers
 
