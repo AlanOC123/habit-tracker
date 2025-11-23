@@ -38,7 +38,7 @@ class ActionViewSet(viewsets.ModelViewSet):
     def perform_create(self, serializer):
         serializer.save()
 
-class HabitCompletionsViewSet(viewsets.ModelViewSet):
+class HabitCompletionViewSet(viewsets.ModelViewSet):
     serializer_class = HabitCompletionSerializer
     permission_classes = [IsAuthenticated]
 
